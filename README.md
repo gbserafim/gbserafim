@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-serafim-28976a182/)
 [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/gabriel-serafim-28976a182/)
 
-![Gb GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=gbserafim&hide_progress=true)
+![Gb GitHub status](https://github-readme-stats.vercel.app/api?username={gbserafim}&theme=blue-green)
 
 ## Tecnologias:
 
@@ -15,6 +15,7 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />  
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+  <img align="center" alt="git" src=" 	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
 </div> <br>
 
 ## Estudos: 
